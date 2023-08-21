@@ -2,47 +2,17 @@
 layout: page
 ---
 
-# About Me
+## Welcome to my homepage!
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+My name is Yining Chen currently a M1 student of mathematics in Toulouse. You can also find some information in my [Zhihu page](https://www.zhihu.com/people/ruo-ru-12-16) (a Chinese cummunity) where I write some posts about mathematics. But note that it's in Chinese.
 
-Here is **Hanlin Cai (Lance, [蔡汉霖](https://caihanlin.com/file/蔡汉霖简历.pdf))**.
+My email: yining_chen@uni-bonn.de
 
-I am a senior student majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). Currently, I am working as a research assistant in the **IACTIP Lab** (Provincial Key), advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). Here is [my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf).
+## Education
 
-<br>
+* Spet. 2019 -- June 2023: B.Sc in the class of Loo-Keng Hua of Shandong University
+* Spet. 2022 -- June 2023: M1 in Université Toulouse III - Paul Sabatier
+* I will start my master study in University of Bonn this winter 2023.
 
-## Academic Background
-
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
-
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - May 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Visiting)
-- Expect to apply for a one-year MSc in the UK and will graduate in 2025. Looking for PhD position after MSc!
-
-<br>
-
----
-
-## Research Interests
-
-- Industrial IoT System
-- Bluetooth Low Energy
-- Applied Machine Learning
-
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
-
-<br>
-
----
-
-## News and Updates
-
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Happy to win the Finalist Award in MCM 2023.
-- **Feb 2023：**[**FZU-Flying-Book 福州大学飞跃手册**](https://fzu-fly.online/) has been published!
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
-- **Sep 2022：**Happy to be nominated for the China National Scholarship.
-- **Jun 2022：**Summer Research Intern at Cambridge University, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ).
-- [Online talk with me.](https://calendly.com/lancecai/meet-with-lance)
+## Interests
+I'm interested in derived algebraic geometry and its interactions with other fields.
