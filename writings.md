@@ -13,6 +13,11 @@ It's my Bachelor's thesis supervised by [Prof. Joost](https://www.math.univ-toul
 
 ## Notes
 
+### Some Geometry of Local Systems
+2023-08
+
+This notes consists of two parts. In the first part we discuss some equivalent characterizations for local systems and their generalizations to higher cases. In the second part we consider the moduli theory for local systems. There are also some questions I want to figure out in my master study. [Download notes here](https://Yining-math.github.io/file/2023-08-notes-1.pdf)
+
 ### Topics in Deformation Theory
 2022-06
 
