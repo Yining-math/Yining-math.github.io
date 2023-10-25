@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /seminars/index.html
-title: Seminars
+permalink: /events/index.html
+title: Events
 ---
 
 ### [(The 5th Kyoto+) Conference on Algebraic Geometry and Arithmetic Geometry](https://www.kurims.kyoto-u.ac.jp/~yuyang/confer/Kyoto-Nanjing-5th.html)
