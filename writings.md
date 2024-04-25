@@ -16,7 +16,7 @@ It's my Bachelor's thesis supervised by [Prof. Nuiten](https://www.math.univ-tou
 ### Some Geometry of Local Systems
 2023-08
 
-This notes consists of two parts. In the first part we discuss some equivalent characterizations for local systems and their generalizations to higher cases. In the second part we consider the moduli theory for local systems. There are also some questions I want to figure out in my master study. [Download notes here](https://Yining-math.github.io/file/2023-08-notes-1.pdf)
+It's to understand the theory of local systems. We talk about some different characterizations of local systems e.g. locally constant sheaves, representations of the fundamental group, flat connections, D-modules and crystals. And we try to generalize them from the classical case to higher cases to see whether there still exist similar relations for these definitions. Finally we get a concept of the (derived) moduli stack of local systems, which has two versions i.e. Betti and de Rham. In the notes there are also some questions I want to figure out in my future study. [Download notes here](https://Yining-math.github.io/file/2023-08-notes-1.pdf)
 
 ### Topics in Deformation Theory
 2022-06
@@ -26,8 +26,11 @@ It's an article about deformation theory where we talk about the deformation the
 ### The Geometry of Triangles
 2022-05
 
-In this article we make the concept of a continuous family of triangles precise and prove the moduli functor classifying oriented triangles admits a fine moduli space but the functor classifying non-oriented triangles only admits a coarse moduli space. We hope moduli spaces of triangles can help understand stacks. [Download notes here](https://Yining-math.github.io/file/2022-05-notes-2.pdf)
+The goal is to understand stacks by the moduli problem of triangles. To do this we make the concept of a continuous family of triangles precise and prove the moduli space classifying oriented triangles is fine but isosceles triangles having non-trivial automorphisms prevent the moduli space classifying non-oriented triangles from being fine. When viewing moduli functors as stacks, the latter moduli functor will be equivalent to the quotient stack of some permutation group. [Download notes here](https://Yining-math.github.io/file/2022-05-notes-2.pdf)
 
+### Localizations and Homotopy Theories
+2022-05
+This project is to understand the localization of categories from the viewpoint of homotopy theories i.e. model categories. We study homotopy theories of topological spaces and chain complexes, and discuss their model categorical structures. We also use the calculus of fractions to describe derived categories. [Download notes here](https://Yining-math.github.io/file/2022-05-notes-1.pdf)
 ### Galois Theory
 2022-01, Lecture notes of the course given by [Prof. Yongquan Hu](http://www.mcm.ac.cn/faculty/huyongquan/201509/t20150909_306981.html)
 
