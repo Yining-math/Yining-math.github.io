@@ -23,7 +23,7 @@ It's to understand the theory of local systems. We talk about some different cha
 
 It's an article about deformation theory where we talk about the deformation theory for Hilbert schemes, formal geometry, cotangent complexes and differential graded Lie algebras (dgLa). But note that it's written in Chinese! [Download notes here](https://Yining-math.github.io/file/2022-06-notes-1.pdf)
 
-### The Geometry of Triangles
+### The Moduli of Triangles
 2022-05
 
 The goal is to understand stacks by the moduli problem of triangles. To do this we make the concept of a continuous family of triangles precise and prove the moduli space classifying oriented triangles is fine but isosceles triangles having non-trivial automorphisms prevent the moduli space classifying non-oriented triangles from being fine. When viewing moduli functors as stacks, the latter moduli functor will be equivalent to the quotient stack of some permutation group. [Download notes here](https://Yining-math.github.io/file/2022-05-notes-2.pdf)
