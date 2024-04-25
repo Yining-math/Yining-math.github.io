@@ -30,6 +30,7 @@ The goal is to understand stacks by the moduli problem of triangles. To do this 
 
 ### Localizations and Homotopy Theories
 2022-05
+
 This project is to understand the localization of categories from the viewpoint of homotopy theories i.e. model categories. We study homotopy theories of topological spaces and chain complexes, and discuss their model categorical structures. We also use the calculus of fractions to describe derived categories. [Download notes here](https://Yining-math.github.io/file/2022-05-notes-1.pdf)
 ### Galois Theory
 2022-01, Lecture notes of the course given by [Prof. Yongquan Hu](http://www.mcm.ac.cn/faculty/huyongquan/201509/t20150909_306981.html)
