@@ -4,6 +4,11 @@ permalink: /events/index.html
 title: Events
 ---
 
+### [Introduction to algebraic K-theory](https://sites.google.com/view/jonasmccandless/introduction-to-algebraic-k-theory?authuser=0)
+2024-04 to 2024-07, [MPIM Bonn](https://www.mpim-bonn.mpg.de/de)
+
+The overall goal of this course is to cover the fundamental theorems of algebraic K-theory in the modern formalism of ∞-categories. It's in the summer semester of 2024 at [MPIM Bonn](https://www.mpim-bonn.mpg.de/de).
+
 ### [(The 5th Kyoto+) Conference on Algebraic Geometry and Arithmetic Geometry](https://www.kurims.kyoto-u.ac.jp/~yuyang/confer/Kyoto-Nanjing-5th.html)
 2023-08, Nanjing
 
