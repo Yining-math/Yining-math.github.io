@@ -18,11 +18,6 @@ It's my Bachelor's thesis supervised by [Prof. Nuiten](https://www.math.univ-tou
 
 It's to understand the theory of local systems. We talk about some different characterizations of local systems e.g. locally constant sheaves, representations of the fundamental group, flat connections, D-modules and crystals. And we try to generalize them from the classical case to higher cases to see whether there still exist similar relations for these definitions. Finally we get a concept of the (derived) moduli stack of local systems, which has two versions i.e. Betti and de Rham. In the notes there are also some questions I want to figure out in my future study. [Download notes here](https://Yining-math.github.io/file/2023-08-notes-1.pdf)
 
-### Topics in Deformation Theory
-2022-06
-
-It's an article about deformation theory where we talk about the deformation theory for Hilbert schemes, formal geometry, cotangent complexes and differential graded Lie algebras (dgLa). But note that it's written in Chinese! [Download notes here](https://Yining-math.github.io/file/2022-06-notes-1.pdf)
-
 ### The Moduli of Triangles
 2022-05
 
