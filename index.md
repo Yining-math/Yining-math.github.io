@@ -15,4 +15,4 @@ My email: yining_chen@uni-bonn.de
 * Oct. 2023 -- Ongoing: Master of Mathematics in the University of Bonn
 
 ## Interests
-I’m interested in derived algebraic geometry and its interactions with other fields, especially derived analytic and symplectic geometries.
+I’m interested in the intersection of algebraic geometry and homotopy theory, especially derived algebraic geometry and its applications to other fields like geometric Langlands program, symplectic geometry and so on.
