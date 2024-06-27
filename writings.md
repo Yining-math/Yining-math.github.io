@@ -14,10 +14,9 @@ It's my Bachelor's thesis supervised by [Prof. Nuiten](https://www.math.univ-tou
 ## Notes
 
 ### [MSc. Seminar on Perverse Sheaves](https://www.math.uni-bonn.de/people/dawydiak/perverse.html)
-2024 04 to 2024-07, Bonn
-This [master seminar](https://www.math.uni-bonn.de/people/dawydiak/perverse.html) is organized by [Dr. Stefan Dawydiak](https://www.math.uni-bonn.de/people/dawydiak/index.html). 
-Seminar outline: [here](http://www.math.uni-bonn.de/people/dawydiak/perverse_seminar_outline.pdf)
-My part is to introduce the concept of t-structures for perverse sheaves. [Notes for talk 10](https://Yining-math.github.io/file/2024-06-notes-1.pdf)
+2024 04 to 2024-07,
+
+This [master seminar](https://www.math.uni-bonn.de/people/dawydiak/perverse.html) is organized by [Dr. Stefan Dawydiak](https://www.math.uni-bonn.de/people/dawydiak/index.html) in Bonn and [here is the outline](http://www.math.uni-bonn.de/people/dawydiak/perverse_seminar_outline.pdf). My part is to introduce the concept of t-structures for perverse sheaves. [Notes for talk 10](https://Yining-math.github.io/file/2024-06-notes-1.pdf)
 
 ### Some Geometry of Local Systems
 2024-04
